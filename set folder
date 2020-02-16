@@ -1,0 +1,2 @@
+set folder = impas://username@aliyun.com@imap.aliyun.com
+set  folder = "+INBOX"
