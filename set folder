@@ -1,2 +1,3 @@
-set folder = impas://username@aliyun.com@imap.aliyun.com
+# set folder = impas://username@outlook.com@outlook.office365.com
+set folder = impas://username@outlook.com@imap-mail.outlook.com
 set  folder = "+INBOX"
