@@ -1,2 +1,4 @@
+vi ~/.muttrc
+
 set folder = imaps://username@aliyun.com@imap.aliyun.com
-set  folder = "+INBOX"
+set  spoolfile = "+INBOX"
